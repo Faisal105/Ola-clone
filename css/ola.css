@@ -1,0 +1,37 @@
+* {
+	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Poppins', sans-serif;
+}
+.banner-1 {
+	background-image: url('../img/bg-1.jpg');
+	height: 110vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.banner-1 {
+	background-image: url('../img//bg-1.jpg');
+	height: 90vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.img-holder {
+	background-image: url(../img/card-1.jpg);
+
+	height: 200px;
+}
+footer nav a {
+	color: rgba(255, 255, 255, 0.758);
+}
+
+footer nav a:hover {
+	color: #7fb73a !important;
+}
+.header nav a:hover {
+	color: #7fb73a !important;
+}
+.header nav button:hover {
+	color: #ffffff !important;
+}
